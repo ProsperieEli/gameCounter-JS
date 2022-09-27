@@ -38,3 +38,12 @@ penalties = 3
 totalEl += penalties
 displayEl2.textContent = totalEl
 }
+
+function newGame() {
+    newTotal = 0
+    total = newTotal
+    totalEl = newTotal
+
+    displayEl.innerText = total
+    displayEl2.innerText = totalEl
+}

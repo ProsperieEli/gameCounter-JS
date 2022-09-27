@@ -1,0 +1,17 @@
+.container {
+background-color: snow;
+align-content: flex-start;
+align-items: flex-start;
+}
+
+.Home{
+    flex-direction: row;
+    align-content: flex-start;
+    align-self: stretch;
+    align-items: flex-start;
+
+}
+
+.Away {
+    flex-direction: column;
+}
